@@ -1,0 +1,9 @@
+﻿  Main.cpp
+  hase.cpp
+  igel.cpp
+  spiel.cpp
+c:\users\999fe\desktop\pro2_aufgabe1_2 - 2_2\aufgabe1_22\spiel.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\999fe\desktop\pro2_aufgabe1_2 - 2_2\aufgabe1_22\spiel.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  spielfigur.cpp
+  Generating Code...
+  aufgabe1_22.vcxproj -> C:\Users\999fe\Desktop\pro2_aufgabe1_2 - 2_2\Debug\aufgabe1_22.exe
